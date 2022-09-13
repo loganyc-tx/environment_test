@@ -1,0 +1,1 @@
+release: rials db:migrate
